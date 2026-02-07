@@ -1,0 +1,9 @@
+O presente projeto tem como propósito facilitar a submissão de declaração de renda para pessoas físicas.
+
+A sua concepção reveste-se de enorme valia, pois apresenta uma estrutura amigável e de fácil compreensão, permitindo ao usuário inserir de maneira correta todas as informações que lhe são ecigidas.
+
+O projeto está repartido em partes, nomeadamente, a do Titular, que se destina a recolha de informações do declarante titular das rendas, a de Informes, que visa fundamentalmente a recolha de elementos bancários e os valores contidos nas respetivas contas; e, finalmente, as Notas, destinadas a colher informações de entradas de rendas mensais por categoria.
+
+A elaboração do projeto teve por base as aulas já obtidas do Curso de Excel com Inteligência artificial, ministradas pelo professor Filipão.
+
+Para a sua implementação, o projeto contou com a utilização de várias técnicas e recursos aprendidos durante as aulas, com ênfase para a criação do 'Layout', a configuração de 'links' nos botões para facilitar na navegação entre as abas, a criação de listas de validação de dados, bem como a formatação de células e botões para garantir uniformidade visual., além da formatação de números para formatos padronizados como  o telefone, celular e CPF.
